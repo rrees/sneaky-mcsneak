@@ -1,0 +1,3 @@
+h1. Sneaky McSneak
+
+Sneaky must try to collect as much treasure as he can from the dungeon without being seen by the dungeon's monsters.
